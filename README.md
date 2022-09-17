@@ -21,11 +21,19 @@ $ sudo snap install --classic code
 
 * No Arduino IDE, utilize este código **[Blink](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.ino)** ou vá em **(Arquivos -> Exemplos -> 01.Basics -> Blink)**
 
-* Clique em **Verificar** e depois de verificar conecte o ESP32 na sua máquina e carregue o código clicando em **Carregar**:
+* Clique em **Verificar** e depois de verificar conecte o ESP32 na sua máquina, selecione a porta **(Ferramentas -> Porta -> /dev/ttyUSB0)** e carregue o código clicando em **Carregar**:
 
 OBS: se certifique de que o Power LED do ESP32 esteja ligado, caso o contrário ele pode não estar conectado corretamente ou estar apresentando algum defeito.
 
 - ![alt text](https://iotdesignpro.com/sites/default/files/inline-images/ESP32-LED-Blink.jpg)
+
+Se aparecer este erro no console: **"Cannot open /dev/ttyUSB0: Permission denied"**, você terá que executar os seguintes comandos no terminal:
+```
+$ sudo su
+$ cd /
+$ cd dev
+$ chown "nome de usuário" ttyUSB0
+```
 
 Ícones de Verificar e Carregar, respectivamente:
 - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png)
