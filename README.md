@@ -1,8 +1,4 @@
-# MR01
-
-SO utilizado para o passo a passo: Ubuntu 20.04
-
-## Primeiros passos:
+# Primeiros passos:
 Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
 **VSCODE:**
