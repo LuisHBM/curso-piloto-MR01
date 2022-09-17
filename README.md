@@ -30,4 +30,6 @@ OBS: se certifique de que o Power LED do ESP32 esteja ligado, caso o contrário 
 Ícones de Verificar e Carregar, respectivamente:
 - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png)
 
-Após isso, você verá a placa 
+Após isso, você verá que o LED ao lado do Power LED estará ligando/desligando em pequenos intervalos.
+
+- ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.mp4)
