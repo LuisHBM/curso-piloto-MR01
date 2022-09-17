@@ -12,4 +12,4 @@ Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 $ sudo snap install --classic code
 ```
 * Instalar extensões:
-  - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
+  [![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
