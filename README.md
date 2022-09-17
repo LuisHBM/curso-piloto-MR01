@@ -27,7 +27,7 @@ OBS: se certifique de que o Power LED do ESP32 esteja ligado, caso o contrário 
 
 - ![alt text](https://iotdesignpro.com/sites/default/files/inline-images/ESP32-LED-Blink.jpg)
 
-<div>
+--
 Se aparecer este erro no console: **"Cannot open /dev/ttyUSB0: Permission denied"**, você terá que executar os seguintes comandos no terminal:
 ```
 $ sudo su
@@ -35,7 +35,7 @@ $ cd /
 $ cd dev
 $ chown "nome de usuário" ttyUSB0
 ```
-</div>
+--
   
 Ícones de Verificar e Carregar, respectivamente:
 - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png)
