@@ -19,4 +19,4 @@ $ sudo snap install --classic code
 
 ## Executando o Blink
 
-* No Arduino IDE, utilize este código **[Blink](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.ino)** ou vá em **Arquivos -> Exemplos -> 01.Basics -> Blink** 
+* No Arduino IDE, utilize este código **[Blink](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.ino)** ou vá em **(Arquivos -> Exemplos -> 01.Basics -> Blink)** 
