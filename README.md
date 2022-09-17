@@ -23,4 +23,11 @@ $ sudo snap install --classic code
 
 * Clique em **Verificar** e depois de verificar conecte o ESP32 na sua máquina e carregue o código clicando em **Carregar**:
 
+OBS: se certifique de que o Power LED do ESP32 esteja ligado, caso o contrário ele pode não estar conectado corretamente ou estar apresentando algum defeito.
+
+- ![alt text](https://circuits4you.com/wp-content/uploads/2018/02/ESP32-LED-Blink-Example.jpg)
+
+Ícones de Verificar e Carregar, respectivamente:
 - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png)
+
+Após isso, você verá a placa 
