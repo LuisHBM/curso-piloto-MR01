@@ -9,5 +9,7 @@ Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
 * Abrir o terminal (CNTRL Esq. + ALT + T) e executar o seguinte comando:
 ```
-sudo snap install --classic code
+$ sudo snap install --classic code
 ```
+* Instalar extensões:
+  ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
