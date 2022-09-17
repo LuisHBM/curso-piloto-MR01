@@ -12,4 +12,8 @@ Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 $ sudo snap install --classic code
 ```
 * Instalar extensões:
-  [![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
+
+  - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
+
+**ARDUINO IDE:**
+* Um bom passo a passo para a instalação do Arduindo você encontra **[[aqui]](https://linuxopsys.com/topics/install-arduino-ide-on-ubuntu-20-04)**
