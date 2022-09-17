@@ -16,4 +16,4 @@ $ sudo snap install --classic code
   - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
 
 **ARDUINO IDE:**
-* Um bom passo a passo para a instalação do Arduindo você encontra **[[aqui]](https://linuxopsys.com/topics/install-arduino-ide-on-ubuntu-20-04)**
+* Um bom passo a passo para a instalação do Arduindo você encontra **[aqui](https://linuxopsys.com/topics/install-arduino-ide-on-ubuntu-20-04)**
