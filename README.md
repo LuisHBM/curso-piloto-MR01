@@ -1,7 +1,13 @@
-<h1>MR01<h1>
-    ## Instalar as IDEs:
-    VSCODE
-        <p>
-            Para isntalar o VSCODE utilize os seguintes comandos:
-            <code>sudo snap install --classic code</code>
-        </p>
+# MR01
+
+SO utilizado para o passo a passo: Ubuntu 20.04
+
+## Primeiros passos:
+Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
+
+## VSCODE:
+
+* Abrir o terminal (CNTRL Esq. + ALT + T) e executar o seguinte comando:
+```
+sudo snap install --classic code
+```
