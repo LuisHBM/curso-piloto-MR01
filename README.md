@@ -7,7 +7,7 @@ Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
 **VSCODE:**
 
-* Abrir o terminal (CNTRL Esq. + ALT + T) e executar o seguinte comando:
+* Abrir o terminal (CTRL Esq. + ALT + T) e executar o seguinte comando:
 ```
 $ sudo snap install --classic code
 ```
