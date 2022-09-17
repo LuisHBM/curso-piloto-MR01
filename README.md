@@ -5,7 +5,7 @@ SO utilizado para o passo a passo: Ubuntu 20.04
 ## Primeiros passos:
 Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
-## VSCODE:
+**VSCODE:**
 
 * Abrir o terminal (CNTRL Esq. + ALT + T) e executar o seguinte comando:
 ```
