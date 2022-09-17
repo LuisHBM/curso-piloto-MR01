@@ -25,7 +25,7 @@ $ sudo snap install --classic code
 
 OBS: se certifique de que o Power LED do ESP32 esteja ligado, caso o contrário ele pode não estar conectado corretamente ou estar apresentando algum defeito.
 
-- ![alt text](https://circuits4you.com/wp-content/uploads/2018/02/ESP32-LED-Blink-Example.jpg)
+- ![alt text](https://iotdesignpro.com/sites/default/files/inline-images/ESP32-LED-Blink.jpg)
 
 Ícones de Verificar e Carregar, respectivamente:
 - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png)
