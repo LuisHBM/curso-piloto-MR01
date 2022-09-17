@@ -16,3 +16,7 @@ $ sudo snap install --classic code
 
 * Configurar a IDE para trabalhar com o ESP32:
 <br><br> A IDE é inicialmente configurada para trabalhar com o Arduino UNO, para podermos trabalhar com o ESP32 devemos instalar suas bibliotecas. Nesse site você pode encontrar mais informações: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
+## Executando o Blink
+
+* No Arduino IDE, utilize este código **[Blink](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.ino)** ou vá em **Arquivos -> Exemplos -> 01.Basics -> Blink** 
