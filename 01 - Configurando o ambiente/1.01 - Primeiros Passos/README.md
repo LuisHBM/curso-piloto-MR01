@@ -19,7 +19,7 @@ $ sudo snap install --classic code
 
 ## Executando o Blink
 
-* No Arduino IDE, utilize este código **[Blink]([https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.ino](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/Blink.ino)** ou vá em **(Arquivos -> Exemplos -> 01.Basics -> Blink)**
+* No Arduino IDE, utilize este código **[Blink]([https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/Blink.ino])** ou vá em **(Arquivos -> Exemplos -> 01.Basics -> Blink)**
 
 * Clique em **Verificar** e depois de verificar conecte o ESP32 na sua máquina, selecione a porta **(Ferramentas -> Porta -> /dev/ttyUSB0)** e carregue o código clicando em **Carregar**:
 
