@@ -38,7 +38,7 @@ $ chown "nome de usuário" ttyUSB0
 
   
 Ícones de Verificar e Carregar, respectivamente:
-- ![alt text]([https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/iconesArduinoIDE.png)
+- ![alt text]([https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/iconesArduinoIDE.png])
 
 Após isso, você verá que o LED ao lado do Power LED estará ligando/desligando em pequenos intervalos.
 
