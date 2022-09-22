@@ -1,5 +1,8 @@
 # Primeiros passos:
-Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
+
+**Instale o [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu) em sua máquina**
+
+## Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
 **VSCODE:**
 
