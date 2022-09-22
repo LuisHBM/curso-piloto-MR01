@@ -35,7 +35,7 @@ OBS: Lembre de estar com o **roscore** executando
 
 * Após executar o node você verá que o terminal está imprimindo constantemente mensagens de erro como nesta imagem:
 
-![alt text]()
+![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.03%20-%20Pacote%20RosSerial/img/ros_lib%20bug.PNG)
 
 Esse problema é causado porque a ESP32 está reiniciando sem parar. Para resolvermos esse problema teremos que alterar alguns argumentos do **ros_lib**.
 
