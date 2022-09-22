@@ -1,8 +1,6 @@
-# Criando um Workspace:
+# RosSerial Package:
 
-**Catkin:**
-
-* Crie uma estrutura base do seu workspace utilizando os seguintes comandos:
+* instale o [**rosserial_arduino**](http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup)
 ```
 $ mkdir my_first_ws
 $ cd my_first_ws/
