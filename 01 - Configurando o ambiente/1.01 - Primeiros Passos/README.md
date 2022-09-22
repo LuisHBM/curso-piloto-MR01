@@ -2,6 +2,8 @@
 
 **Instale o [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) em seu Ubuntu.**
 
+![alt text](https://youtu.be/PowY8dV36DY)
+
 ## Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
 **VSCODE:**
