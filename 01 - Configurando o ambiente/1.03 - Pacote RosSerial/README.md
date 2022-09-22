@@ -23,7 +23,7 @@ Reinicie seu Arduino IDE e veja se a biblioteca se encontra neste local:
 
 ## Testando a biblioteca:
 
-* No Arduino IDE, abra o exemplo **[Blink]()** dentro da biblioteca do ros_lib.
+* No Arduino IDE, abra o exemplo **Blink** dentro da biblioteca do ros_lib.
 
 * Carregue o código para a ESP32
 
@@ -40,6 +40,8 @@ OBS: Lembre de estar com o **roscore** executando
 Esse problema é causado porque a ESP32 está reiniciando sem parar. Para resolvermos esse problema teremos que alterar alguns argumentos do **ros_lib**.
 
 ## Resolvendo Reboot do ESP32:
+
+* Feche os processos que o terminal está executando do RosSerial.
 
 * Vá dentro da pasta da biblioteca **ros_lib**, nela você encontrará o arquivo **ros.h**, é ele que nós temos que alterar.
 Caminho do arquivo caso esteja esquecido: (~/Arduino/libraries/ros_lib/ros.h)
@@ -60,3 +62,10 @@ deixando-a assim:
   #include "ArduinoHardware.h"
 #endif
 ```
+
+* Após isso, reinicie o Arduino IDE, carregue novamente o **Blink** e execute outra vez:
+```
+$ rosrun rosserial_arduino serial_node.py
+```
+Você verá algo parecido com isso:
+![alt text]()
