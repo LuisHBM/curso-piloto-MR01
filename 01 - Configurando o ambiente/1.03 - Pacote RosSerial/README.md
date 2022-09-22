@@ -72,4 +72,4 @@ Você verá algo parecido com isso: <br><br>
 
 <br><br>
 ---
-  **[[Anterior]]()** - Primeiros Passos         | **[[Próximo]]()** - Pacote RosSerial
+  **[[Anterior]](https://github.com/LuisHBM/curso-piloto-MR01/tree/main/01%20-%20Configurando%20o%20ambiente/1.02%20-%20Criando%20um%20Workspace)** - Criando um Workspace         | **[[Próximo]]()** - Pacote RosSerial
