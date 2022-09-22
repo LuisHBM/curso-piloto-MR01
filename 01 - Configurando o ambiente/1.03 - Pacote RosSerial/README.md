@@ -25,13 +25,13 @@ Reinicie seu Arduino IDE e veja se a biblioteca se encontra neste local:
 
 * No Arduino IDE, abra o exemplo **Blink** dentro da biblioteca do ros_lib.
 
-* Carregue o código para a ESP32
+* Carregue o código para a ESP32.
 
 * Execute o node:
 ```
 $ rosrun rosserial_arduino serial_node.py
 ```
-OBS: Lembre-se de estar com o **roscore** executando
+OBS: Lembre-se de estar com o **roscore** executando.
 
 * Após executar o node você verá que o terminal está imprimindo constantemente mensagens de erro como nesta imagem:
 
