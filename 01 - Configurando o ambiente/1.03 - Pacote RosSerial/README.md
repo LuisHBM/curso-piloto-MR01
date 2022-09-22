@@ -9,7 +9,7 @@ $ sudo apt-get install ros-noetic-rosserial
 ```
 
 * Acrescente a biblioteca ros_lib nos arquivos do Arduino IDE:
-* 
+
 Na pasta do Arduino IDE procure por  **libraries/** e dentro dessa pasta instale o **ros_lib**:
 
 ```
