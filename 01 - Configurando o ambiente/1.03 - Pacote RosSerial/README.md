@@ -31,4 +31,32 @@ Reinicie seu Arduino IDE e veja se a biblioteca se encontra neste local:
 ```
 $ rosrun rosserial_arduino serial_node.py
 ```
-OBS: Lembre de estar com o **roscore** executando: 
+OBS: Lembre de estar com o **roscore** executando
+
+* Após executar o node você verá que o terminal está imprimindo constantemente mensagens de erro como nesta imagem:
+
+![alt text]()
+
+Esse problema é causado porque a ESP32 está reiniciando sem parar. Para resolvermos esse problema teremos que alterar alguns argumentos do **ros_lib**.
+
+## Resolvendo Reboot do ESP32:
+
+* Vá dentro da pasta da biblioteca **ros_lib**, nela você encontrará o arquivo **ros.h**, é ele que nós temos que alterar.
+Caminho do arquivo caso esteja esquecido: (~/Arduino/libraries/ros_lib/ros.h)
+
+* Abra o arquivo e altere a seguinte linha de código:
+```
+#if defined(ESP8266) or defined(ESP32) or defined(ROSSERIAL_ARDUINO_TCP)
+  #include "ArduinoTcpHardware.h"
+#else
+  #include "ArduinoHardware.h"
+#endif
+```
+deixando-a assim:
+```
+#if defined(ROSSERIAL_ARDUINO_TCP)
+  #include "ArduinoTcpHardware.h"
+#else
+  #include "ArduinoHardware.h"
+#endif
+```
