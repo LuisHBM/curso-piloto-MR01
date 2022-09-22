@@ -34,6 +34,6 @@ Agora você pode trabalhar no seu workspace com maior facilidade.
 
 ## Fazendo algumas alterações
 
-* Dentro do seu pacote crie as pastas *src/*,*launch/*,*esp_src/*
+* Dentro do seu pacote crie as pastas *src/*, *launch/*, *esp_src/*
 
 Essas pastas serão importantes para organizar nossos projetos em projetos mais a frente.
