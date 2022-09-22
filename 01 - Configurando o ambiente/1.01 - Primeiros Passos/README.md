@@ -9,7 +9,7 @@ $ sudo snap install --classic code
 ```
 * Instalar extensões:
 
-  - ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/extensions.png)
+  - ![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/img/extensions.png)
 
 **ARDUINO IDE:**
 * Um bom passo a passo para a instalação do Arduino IDE você encontra **[aqui](https://linuxopsys.com/topics/install-arduino-ide-on-ubuntu-20-04)**
@@ -19,7 +19,7 @@ $ sudo snap install --classic code
 
 ## Executando o Blink
 
-* No Arduino IDE, utilize este código **[Blink](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.ino)** ou vá em **(Arquivos -> Exemplos -> 01.Basics -> Blink)**
+* No Arduino IDE, utilize este código **[Blink](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/code/Blink.ino)** ou vá em **(Arquivos -> Exemplos -> 01.Basics -> Blink)**
 
 * Clique em **Verificar** e depois de verificar conecte o ESP32 na sua máquina, selecione a porta **(Ferramentas -> Porta -> /dev/ttyUSB0)** e carregue o código clicando em **Carregar**:
 
@@ -38,8 +38,8 @@ $ chown "nome de usuário" ttyUSB0
 
   
 Ícones de Verificar e Carregar, respectivamente:
-- ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/iconesArduinoIDE.png)
+- ![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/img/iconesArduinoIDE.png)
 
 Após isso, você verá que o LED ao lado do Power LED estará ligando/desligando em pequenos intervalos.
 
-- ![alt text](https://github.com/LuisHBM/curso-prototipo-MR01/blob/main/Blink.gif)
+- ![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/img/Blink.gif)
