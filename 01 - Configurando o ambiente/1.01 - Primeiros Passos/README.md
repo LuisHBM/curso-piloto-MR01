@@ -49,5 +49,6 @@ Após isso, você verá que o LED ao lado do Power LED estará ligando/desligand
 
 - ![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos/img/Blink.gif)
 
+---
 <br><br>
 **[[Próximo]](https://github.com/LuisHBM/curso-piloto-MR01/tree/main/01%20-%20Configurando%20o%20ambiente/1.02%20-%20Criando%20um%20Workspace)** - Criando um Workspace
