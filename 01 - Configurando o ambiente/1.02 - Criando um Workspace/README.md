@@ -14,7 +14,7 @@ $ cd src/
 ```
 $ catkin_create_pkg my_first_pkg rospy std_msgs
 ```
-Note que através do comando *catkin_create_pkg* você dará o nome do seu pacote (no caso é my_first_pkg) e logo em seguida inserir suas dependências, que por enquanto utilizaremos o *rospy* e o *std_msgs*.
+Note que através do comando *catkin_create_pkg* você dará o nome do seu pacote (no caso é o my_first_pkg) e logo em seguida inserir suas dependências, que por enquanto utilizaremos o *rospy* e o *std_msgs*.
 
 OBS: Lembre de indicar o source do ROS antes de utilizar esse comando e sempre que criar um novo terminal.
 
