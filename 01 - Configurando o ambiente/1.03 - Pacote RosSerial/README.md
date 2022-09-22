@@ -46,7 +46,7 @@ Esse problema é causado porque a ESP32 está reiniciando sem parar. Para resolv
 * Vá dentro da pasta da biblioteca **ros_lib**, nela você encontrará o arquivo **ros.h**, é ele que nós temos que alterar.
 Caminho do arquivo caso esteja esquecido: (~/Arduino/libraries/ros_lib/ros.h)
 
-* Abra o arquivo e altere a seguinte linha de código:
+* Abra o arquivo e altere o seguinte código:
 ```
 #if defined(ESP8266) or defined(ESP32) or defined(ROSSERIAL_ARDUINO_TCP)
   #include "ArduinoTcpHardware.h"
@@ -54,7 +54,7 @@ Caminho do arquivo caso esteja esquecido: (~/Arduino/libraries/ros_lib/ros.h)
   #include "ArduinoHardware.h"
 #endif
 ```
-deixando-a assim:
+deixando-o assim:
 ```
 #if defined(ROSSERIAL_ARDUINO_TCP)
   #include "ArduinoTcpHardware.h"
