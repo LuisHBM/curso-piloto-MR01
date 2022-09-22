@@ -27,7 +27,7 @@ Esse comando irá de fato criar o seu workspace.
 **Integrar o VSCode com o seu pacote:**
 * No *Visual Studio Code* no cabeçalho da aplicação selecione *Arquivo -> Abrir Pasta...*.
 
-- ![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.02%20-%20Criando%20um%20Workspace/img/folder_vscode.PNG)
+![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.02%20-%20Criando%20um%20Workspace/img/folder_vscode.PNG)
 
 * Abra a pasta *src/* do seu workspace.
 Agora você pode trabalhar no seu workspace com maior facilidade.
