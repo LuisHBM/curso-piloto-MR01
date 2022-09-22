@@ -1,6 +1,6 @@
 # Primeiros passos:
 
-**Instale o [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) em seu Ubuntu**
+**Instale o [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) em seu Ubuntu.**
 
 ## Configurar o ambiente instalando as IDEs (VSCode, Arduindo IDE)
 
