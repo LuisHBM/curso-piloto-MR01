@@ -43,5 +43,5 @@ Essas pastas serão importantes para organizar nossos projetos mais a frente.
 
 <br><br>
 ---
-**[[Anterior]](#)** - Primeiros Passos
-**[[Próximo]](#)** - ?????
+**[[Anterior]](https://github.com/LuisHBM/curso-piloto-MR01/tree/main/01%20-%20Configurando%20o%20ambiente/1.01%20-%20Primeiros%20Passos)** - Primeiros Passos
+                      **[[Próximo]](#)** - ?????
