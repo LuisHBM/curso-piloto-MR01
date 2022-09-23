@@ -1,6 +1,6 @@
 # ROS Led Toggle
 
-* Adicione o exemplo [Blink](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.05%20-%20Exemplo%20led_toggle%20utilizando%20ROS/code/Blink_alterado/Blink_alterado.ino) da biblioteca do ros_lib na pasta **esp_src/** que está dentro de seu pacote do Workspace.
+* Adicione o exemplo [Blink](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.05%20-%20Exemplo%20led_toggle%20utilizando%20ROS/code/Blink/Blink.ino) da biblioteca do ros_lib na pasta **esp_src/** que está dentro de seu pacote do Workspace.
 
 ![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.05%20-%20Exemplo%20led_toggle%20utilizando%20ROS/img/Blink.png)
 
