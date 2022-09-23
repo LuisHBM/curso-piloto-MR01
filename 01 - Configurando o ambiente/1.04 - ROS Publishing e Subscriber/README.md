@@ -6,4 +6,4 @@ Ententenda mais um pouco como funciona o ROS e as suas comunicações, entre no 
 
 <br><br>
 ---
-  **[[Anterior]]()** -          | **[[Próximo]](https://github.com/LuisHBM/curso-piloto-MR01/tree/main/01%20-%20Configurando%20o%20ambiente/1.04%20-%20ROS%20Publishing%20e%20Subscriber)** - ROS Publishing e Subscribing
+  **[[Anterior]](https://github.com/LuisHBM/curso-piloto-MR01/tree/main/01%20-%20Configurando%20o%20ambiente/1.03%20-%20Pacote%20RosSerial)** - Pacote RosSerial         | **[[Próximo]](https://github.com/LuisHBM/curso-piloto-MR01/tree/main/01%20-%20Configurando%20o%20ambiente/1.04%20-%20ROS%20Publishing%20e%20Subscriber)** - ROS Publishing e Subscribing
