@@ -29,9 +29,9 @@ void messageCb( const std_msgs::Empty& toggle_msg){
 
 * Execute o rosserial em seu terminal:
 
-´´´
+```
 $ rosrun rosserial_arduino serial_node.py
-´´´
+```
 * Envie um comando para o led ligar/desligar:
 
 ```
