@@ -19,4 +19,5 @@ Exemplo abstrato:
 dTotal = echoPinReturn;
 distancia_real = dTotal / 2;
 ```
-Ainda há alguns detalhes na hora de calcular a dsitância real que iremos mostrar mais a frente
+Ainda há alguns detalhes na hora de calcular a dsitância real que iremos mostrar mais a frente.
+
