@@ -19,5 +19,7 @@ Exemplo abstrato:
 dTotal = echoPinReturn;
 distancia_real = dTotal / 2;
 ```
-Ainda há alguns detalhes na hora de calcular a dsitância real que iremos mostrar mais a frente.
+## Vendo na prática
 
+* Crie uma pasta no diretório **esp_src** chamada **ultrasonic_interfacing/**
+* Adicione o arquivo [ultrasonic_interfacing.ino]() dentro da pasta criada.
