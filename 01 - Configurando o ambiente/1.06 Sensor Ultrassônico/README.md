@@ -1,6 +1,6 @@
 # Trabalhando com o sensor ultrassônico
 
-![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultra-S%C3%B4nico/img/ultrasonic_sensor.png)
+![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultrass%C3%B4nico/img/ultrasonic_sensor.png)
 
 ## Como funciona o HC-SR04:
 
@@ -9,7 +9,7 @@
 
 ## Como calculamos a distãncia através das informações recebidas pelo Echo?
 
-![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultra-S%C3%B4nico/img/ultrasom.webp)
+![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultrass%C3%B4nico/img/ultrasom.webp)
 
 Como você pode observar na imagem acima, o sinal sonoro que o **Echo** recebe é uma onda refletida. Quando ele recebe esse sinal, ele interpreta a distância completa que a onda sonora percorreu, ou seja, a ida e a volta, por isso para que se tenha a distância precisa entre o sensor e o obstáculo devemos dividir essa distância pela metade.
 
@@ -22,13 +22,13 @@ distancia_real = dTotal / 2;
 ## Vendo na prática
 
 * Crie uma pasta no diretório **esp_src** chamada **ultrasonic_interfacing/**
-* Adicione o arquivo [ultrasonic_interfacing.ino](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultra-S%C3%B4nico/code/ultrasonic_interfacing.ino) dentro da pasta criada.
+* Adicione o arquivo [ultrasonic_interfacing.ino](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultrass%C3%B4nico/code/ultrasonic_interfacing.ino) dentro da pasta criada.
 * Copie o código para o Arduino IDE e carregue-o para a ESP32.
 *Abra o monitor serial (canto superior direito da tela).
 
 No fim você verá algo parecido com isso:
 
-![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultra-S%C3%B4nico/img/monitor%20serial.png)
+![alt text](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultrass%C3%B4nico/img/monitor%20serial.png)
 
 Ele estará imprimindo a distância na tela.
 
