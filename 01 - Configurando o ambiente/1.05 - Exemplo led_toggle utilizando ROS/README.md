@@ -6,6 +6,6 @@
 
 * Execute o rosserial em seu terminal:
 
-´´´
+```
 $ rosrun rosserial_arduino serial_node.py
-´´´
+```
