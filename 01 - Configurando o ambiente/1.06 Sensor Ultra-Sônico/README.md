@@ -22,4 +22,10 @@ distancia_real = dTotal / 2;
 ## Vendo na prática
 
 * Crie uma pasta no diretório **esp_src** chamada **ultrasonic_interfacing/**
-* Adicione o arquivo [ultrasonic_interfacing.ino]() dentro da pasta criada.
+* Adicione o arquivo [ultrasonic_interfacing.ino](https://github.com/LuisHBM/curso-piloto-MR01/blob/main/01%20-%20Configurando%20o%20ambiente/1.06%20Sensor%20Ultra-S%C3%B4nico/code/ultrasonic_interfacing.ino) dentro da pasta criada.
+* Copie o código para o Arduino IDE e carregue-o para a ESP32.
+*Abra o monitor serial (canto superior direito da tela).
+
+No fim você verá algo parecido com isso:
+
+
